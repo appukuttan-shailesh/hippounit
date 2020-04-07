@@ -21,8 +21,8 @@ source_suffix = '.rst'
 # -- Project information -----------------------------------------------------
 
 project = 'HippoUnit'
-copyright = '2018, Sara Saray, Shailesh Appukuttan, Szabolcs Káli, Andrew Davison, Christian Rossert'
-author = 'Sara Saray, Shailesh Appukuttan, Szabolcs Káli, Andrew Davison, Christian Rossert'
+copyright = u'2018, Sara Saray, Shailesh Appukuttan, Szabolcs Káli, Andrew Davison, Christian Rossert'
+author = u'Sara Saray, Shailesh Appukuttan, Szabolcs Káli, Andrew Davison, Christian Rossert'
 
 # The full version, including alpha/beta/rc tags
 release = '1.3.3'
